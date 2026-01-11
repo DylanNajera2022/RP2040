@@ -8,6 +8,7 @@ Due to the experience I gained previously with my Macropad, it was much easier f
 <img width="295" height="688" alt="image" src="https://github.com/user-attachments/assets/a508b0a2-7c7d-43c8-bd41-897312343e40" />
 <img width="318" height="741" alt="image" src="https://github.com/user-attachments/assets/8e8f5ff2-fe19-4431-9a44-e9946330a5ec" />
 <img width="343" height="747" alt="image" src="https://github.com/user-attachments/assets/0f3097f1-52ac-4d11-8076-0076b3e20f94" />
+<img width="326" height="741" alt="image" src="https://github.com/user-attachments/assets/d6f9a692-3140-4696-8e70-2526814044e8" />
 
 
 
